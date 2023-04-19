@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bookbag/static/css/main.52296a43.css",
+    "main.js": "/bookbag/static/js/main.830811d9.js",
+    "static/media/what-we-offer.jpg": "/bookbag/static/media/what-we-offer.6e2eafedbb7c29b0bd5e.jpg",
+    "index.html": "/bookbag/index.html",
+    "main.52296a43.css.map": "/bookbag/static/css/main.52296a43.css.map",
+    "main.830811d9.js.map": "/bookbag/static/js/main.830811d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52296a43.css",
+    "static/js/main.830811d9.js"
+  ]
+}
